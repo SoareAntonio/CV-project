@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+<<<<<
 # CV-project
 =======
 
-# Bridg-it & Hometown  
 
-Acest repository conține două proiecte separate:  
+
+# Acest repository conține două proiecte separate:  
 
 1. *Bridg-it* – Un joc scris în C++  
 2. *Hometown* – Un proiect web cu HTML și CSS  
