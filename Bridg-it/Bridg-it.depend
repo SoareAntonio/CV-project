@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1742115901 source:c:\users\anton\documents\cv\proiecte\bridg-it\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<cstdlib>
+	<cstring>
+	<ctime>
+

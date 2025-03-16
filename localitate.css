@@ -1,0 +1,86 @@
+body{ 
+    border-radius: 6%;
+    border:2px solid rgb(60, 141, 134);
+    margin:0;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    text-align: center;
+}
+
+/* sectiunea1 */
+.satul
+{width:1000px;
+height: 550px;
+margin:10px auto 0 auto;
+
+
+border-top-left-radius: 6%;
+border-top-right-radius: 6%;
+
+background-image: url("./images/satul.jpg");
+background-size: cover;
+
+display:flex;
+flex-direction: column;
+align-items: center;
+}
+
+ #txt1{
+    margin-top: 100px;
+    margin-bottom:0;
+    text-shadow: 0 3px 2px black;
+    background:linear-gradient(#528a6b,#03362e) ;
+    color:#c9c126;
+    padding:5px 5px;
+} 
+#txt2
+{   margin-top:0;
+    text-shadow: 0 3px 2px black;
+    background:linear-gradient(#03362e,#528a6b) ;
+    color:#c9c126;
+    padding:4px 5px;
+}
+/* sectiunea 2 */
+.sect2
+{background-color: rgb(79, 125, 110);
+width:940px;
+height: 400px;
+margin:0px auto 0 auto;
+padding:0 30px;
+border-top:30px solid rgb(79, 125, 110);}
+.actratii{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+
+}
+.item{
+    width:333px;
+    padding:10px 20px ;
+    
+}
+.imagini
+{width:150px;
+height: 150px;
+border-radius: 50%;}
+
+
+/* sect3 */
+.card{
+    display:flex;
+    width: 400px;
+    color:#2b2839;
+    padding:20px;
+    justify-content:space-around;
+    margin:30px auto;
+    text-align: center;
+    line-height:1.3cap;
+    border-bottom:10px solid #d8cefe;
+    background-color: #ddebf8;
+ 
+}
+.imgine
+{
+    width:150px; 
+    height: 150px;
+}
