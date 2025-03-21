@@ -20,13 +20,13 @@
 1. Asigură-te că ai un compilator C++ instalat (ex: g++ din MinGW sau un compilator din Visual Studio Code).  
 2. Deschide un terminal și compilează codul:  
    ```sh
-   g++ -o bridg-it bridg-it.cp
+   g++ -o bridg-it bridg-it.cpp
 
 ### 🧮 *Calculator (HCJ)*
 ## 📂 Fișiere
-	•	calc.html – Structura calculatorului
-	•	calc.css  – Stilizarea calculatorului
-        •	calc.js   – Functionalitatea butoanelor
+	•	 calc.html – Structura calculatorului
+	•	 calc.css  – Stilizarea calculatorului
+        •	 calc.js   – Functionalitatea butoanelor
 ## 🌐 Cum să vezi pagina web?
 	1.	Deschide calc.html într-un browser
 	2.	Sau, folosește Live Server în VS Code (dacă ai extensia instalată)
