@@ -22,15 +22,15 @@
    ```sh
    g++ -o bridg-it bridg-it.cp
 
-### 🧮 *Calculator (HCJ)
+### 🧮 *Calculator (HCJ)*
 ## 📂 Fișiere
 	•	calc.html – Structura calculatorului
 	•	calc.css – Stilizarea calculatorului
         •	calc.js – Functionalitatea butoanelor
 ## 🌐 Cum să vezi pagina web?
 	1.	Deschide calc.html într-un browser
-	•	Sau, folosește Live Server în VS Code (dacă ai extensia instalată)
-	2.	Poți accesa proiectul și prin GitHub Pages dacă ai activat opțiunea.
+	2.	Sau, folosește Live Server în VS Code (dacă ai extensia instalată)
+	3.	Poți accesa proiectul și prin GitHub Pages dacă ai activat opțiunea.
      
 ### 🌍 Hometown (HTML & CSS)
 
@@ -40,5 +40,5 @@
 
 ## 🌐 Cum să vezi pagina web?
 	1.	Deschide localitate.html într-un browser
-	•	Sau, folosește Live Server în VS Code (dacă ai extensia instalată)
-	2.	Poți accesa proiectul și prin GitHub Pages dacă ai activat opțiunea.
+	2.	Sau, folosește Live Server în VS Code (dacă ai extensia instalată)
+	3.	Poți accesa proiectul și prin GitHub Pages dacă ai activat opțiunea.
