@@ -25,8 +25,8 @@
 ### 🧮 *Calculator (HCJ)*
 ## 📂 Fișiere
 	•	calc.html – Structura calculatorului
-	•	calc.css – Stilizarea calculatorului
-        •	calc.js – Functionalitatea butoanelor
+	•	calc.css  – Stilizarea calculatorului
+        •	calc.js   – Functionalitatea butoanelor
 ## 🌐 Cum să vezi pagina web?
 	1.	Deschide calc.html într-un browser
 	2.	Sau, folosește Live Server în VS Code (dacă ai extensia instalată)
