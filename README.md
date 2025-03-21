@@ -7,12 +7,13 @@
 # Acest repository conține două proiecte separate:  
 
 1. *Bridg-it* – Un joc scris în C++  
-2. *Hometown* – Un proiect web cu HTML și CSS  
+2. *Calculator*-Un calculator cu HCJ
+3. *Hometown* – Un proiect web cu HTML și CSS
 
 ---
 
-## 📌 *Bridg-it (C++)*  
-### 📂 *Fișiere*  
+### 📌 *Bridg-it (C++)*  
+## 📂 *Fișiere*  
 - bridg-it.cpp – Codul sursă al jocului  
 
 ### 🚀 *Cum să rulezi jocul?*  
@@ -21,13 +22,23 @@
    ```sh
    g++ -o bridg-it bridg-it.cp
 
+### 🧮 *Calculator (HCJ)
+## 📂 Fișiere
+	•	calc.html – Structura calculatorului
+	•	calc.css – Stilizarea calculatorului
+        •	calc.js – Functionalitatea butoanelor
+## 🌐 Cum să vezi pagina web?
+	1.	Deschide calc.html într-un browser
+	•	Sau, folosește Live Server în VS Code (dacă ai extensia instalată)
+	2.	Poți accesa proiectul și prin GitHub Pages dacă ai activat opțiunea.
+     
 ### 🌍 Hometown (HTML & CSS)
 
-### 📂 Fișiere
+## 📂 Fișiere
 	•	localitate.html – Structura paginii
 	•	localitate.css – Stilizarea paginii
 
-### 🌐 Cum să vezi pagina web?
+## 🌐 Cum să vezi pagina web?
 	1.	Deschide localitate.html într-un browser
 	•	Sau, folosește Live Server în VS Code (dacă ai extensia instalată)
 	2.	Poți accesa proiectul și prin GitHub Pages dacă ai activat opțiunea.
