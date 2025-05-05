@@ -42,3 +42,4 @@
 	1.	Deschide localitate.html într-un browser
 	2.	Sau, folosește Live Server în VS Code (dacă ai extensia instalată)
 	3.	Poți accesa proiectul și prin GitHub Pages dacă ai activat opțiunea.
+**GitHub**
